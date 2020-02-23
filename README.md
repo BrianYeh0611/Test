@@ -4,7 +4,7 @@
 
 
 ![圖片介紹]
-(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS48DXSA_KurUHG4qGVavFz3-vSgsPgDSXz3MF8pUK8p8m4Lf5l)
+(https://imgix.bustle.com/elite-daily/2017/05/08082959/thinking-man-meme.jpg?w=1020&h=574&fit=crop&crop=faces&auto=format&q=70)
 
 ```python
 import random
